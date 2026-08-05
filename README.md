@@ -29,7 +29,7 @@ department ──┬── course ──┬── section ──┬── teache
                           └── prereq (self-referencing)
 time_slot ──────────────────────────────────────┘
 ```
-
+![App Screenshot](ttttt.png)
 ### Tables
 - **`classroom`** — Buildings, room numbers, and seating capacities
 - **`department`** — Academic departments with budget tracking
