@@ -1,7 +1,7 @@
 # 🎓 University Database
 
 A fully relational **university management database** built from the ground up using pure **SQL**. This project models the real-world complexity of a university — from classrooms and departments to students, instructors, courses, grades, and academic prerequisites — all wired together through a robust, normalized schema.
-
+![App Screenshot](ttttt.png)
 ---
 
 ## ⚡ Tech Stack
@@ -29,7 +29,7 @@ department ──┬── course ──┬── section ──┬── teache
                           └── prereq (self-referencing)
 time_slot ──────────────────────────────────────┘
 ```
-![App Screenshot](ttttt.png)
+
 ### Tables
 - **`classroom`** — Buildings, room numbers, and seating capacities
 - **`department`** — Academic departments with budget tracking
